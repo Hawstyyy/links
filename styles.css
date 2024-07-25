@@ -1,7 +1,12 @@
 body {
+  margin: 0;
+  padding: 0;
   background-image: url("./assets/fundo.jpg") no-repeat center center;
-  background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
   font-family: Verdana;
 }
 
