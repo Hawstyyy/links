@@ -1,9 +1,11 @@
 body {
-  background-image: url("./assets/fundo.jpg");
+  font-family: Verdana;
+}
+
+.fundo {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
-  font-family: Verdana;
 }
 
 h1 {
