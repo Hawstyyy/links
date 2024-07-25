@@ -1,8 +1,5 @@
 body {
   font-family: Verdana;
-}
-
-body.fundo {
   background-image: url("./assets/fundo.jpg") no-repeat center center;
   background-position: center;
   background-size: cover;
