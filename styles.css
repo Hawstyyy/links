@@ -3,9 +3,9 @@ body {
 }
 
 .fundo {
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("./assets/fundo.jpg") no-repeat center center;
   background-position: center;
+  background-size: cover;
 }
 
 h1 {
