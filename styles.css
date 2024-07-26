@@ -1,7 +1,10 @@
   body {
+  font-family: Verdana;
+}
+
+.fundo {
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: Verdana;
 }
 
 h1 {
