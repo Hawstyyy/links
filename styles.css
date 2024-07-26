@@ -17,7 +17,7 @@ body::before {  content: "";
   background-image: url("assets/fundo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  filter: blur(1px);
+  filter: blur(2px);
   z-index: -1;
 }
 
