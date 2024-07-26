@@ -33,6 +33,7 @@ h3 {
 }
 
 .btn {
+  cursor: pointer;
   margin: 20px;
   font-size: 1.125rem;
   color: white;
