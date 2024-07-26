@@ -1,9 +1,10 @@
   body {
+  font-family: Verdana;
+}
+
+.fundo {
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  font-family: Verdana;
 }
 
 h1 {
@@ -25,6 +26,8 @@ h3 {
 }
 
 .avatar {
+  outline-color: white;
+  outline-style: solid;
   display: block;
   margin-left: auto;
   margin-right: auto;
